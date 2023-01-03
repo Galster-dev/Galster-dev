@@ -1,7 +1,7 @@
 # Hi there! I'm Galster :wave:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galster-dev&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![My stats](https://github-readme-stats.vercel.app/api?username=Galster-dev&theme=midnight-purple&show_icons=true)
 <br>
 # Activity
 ### Currently making Among Us mods. Co-owner of [CrowdedMods](https://github.com/CrowdedMods)
-## Main Langs
+## Main Languages
 C++, Rust, JavaScript, C#
